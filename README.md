@@ -1,43 +1,75 @@
-<h1 align="center">Hi 👋, I'm Venkata Praveen Kumar</h1>
-<h3 align="center">Senior Frontend Engineer · React · Next.js · TypeScript · 8+ years building fintech products at Goldman Sachs scale. Open to opportunities.</h3>
+<div align="center">
+  <h1>Hi 👋, I'm Venkata Praveen Kumar</h1>
+  <h3>Senior Frontend Engineer &nbsp;·&nbsp; React &nbsp;·&nbsp; Next.js &nbsp;·&nbsp; TypeScript</h3>
+  <p>8+ years building consumer-scale fintech at <strong>Goldman Sachs</strong> &amp; enterprise IoT platforms at <strong>Siemens Gamesa</strong></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pravoobi&label=Profile%20views&color=0e75b6&style=flat" alt="pravoobi" /> </p>
+<a href="mailto:pravubi@gmail.com"><img src="https://img.shields.io/badge/Email-pravubi%40gmail.com-blue?style=flat&logo=gmail" /></a>
+&nbsp;
+<a href="https://linkedin.com/in/praveenkumar-velisetty"><img src="https://img.shields.io/badge/LinkedIn-praveenkumar--velisetty-0077B5?style=flat&logo=linkedin" /></a>
+&nbsp;
+<a href="https://pravoobi.github.io"><img src="https://img.shields.io/badge/Portfolio-pravoobi.github.io-success?style=flat&logo=github" /></a>
+&nbsp;
+<a href="https://twitter.com/pravoobi"><img src="https://img.shields.io/badge/Twitter-pravoobi-1DA1F2?style=flat&logo=twitter" /></a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=pravoobi&label=Profile%20views&color=0e75b6&style=flat" />
 
-- 📫 How to reach me **pravubi@gmail.com**
-- Visit my website at [Portfolio](https://pravoobi.github.io)
+</div>
 
- <h3 align="left">Featured Projects</h3>
+---
 
-  **@practics/ui**: A React component library built with Tailwind CSS and Radix UI primitives.
-  Github: https://github.com/pravoobi/practics-ui
-  Storybook: https://pravoobi.github.io/practics-ui/
-  NPM: npm install @practics/ui
+## About Me
 
-  **Neu CRM**: A React based CRM protoype application built with @practics/ui
-  Website: https://pravoobi.github.io/neu-crm/
-  Github: https://github.com/pravoobi/neu-crm
+Senior Frontend Engineer specializing in **React**, **Next.js**, and **TypeScript** — I combine hands-on engineering with technical leadership to ship measurable outcomes:
 
-   **Vincent Digital Bank**: A Nextjs based Digital bank application
-  Github: https://github.com/pravoobi/vincent-digital-bank
-  Website: http://vincent-digital-bank.vercel.app/
-  
+- **+5%** conversion lift on Marcus.com customer onboarding
+- **100%** regulatory compliance across KYC & identity-verification touchpoints
+- Lighthouse performance score improved from **80 → 95**; load time cut from **8s → 3.5s**
+- Test coverage raised from **61% → 80%+** using Jest & Cypress
+- Architected a **30+ component TypeScript library** adopted across 4 product squads
+- Mentored **5 frontend developers** and established React/TypeScript coding standards
+- Reduced boilerplate effort by **~30%** via AI-assisted workflows (GitHub Copilot, Cursor.ai)
 
-<h3 align="left">Connect with me:</h3>
+---
+
+## Featured Projects
+
+| Project                  | Description                                                                               | Links                                                                                                                           |
+| ------------------------ | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| **@practics/ui**         | React component library built with Tailwind CSS & Radix UI primitives                     | [GitHub](https://github.com/pravoobi/practics-ui) · [Storybook](https://pravoobi.github.io/practics-ui/) · `npm i @practics/ui` |
+| **Vincent Digital Bank** | Next.js digital banking prototype with fast, secure onboarding & document-ID verification | [GitHub](https://github.com/pravoobi/vincent-digital-bank) · [Live Demo](http://vincent-digital-bank.vercel.app/)               |
+| **Fraud Guard**          | Interactive fraud-awareness learning app — Cognizant Vibe Coding Hackathon                | [GitHub](https://github.com/pravoobi/fraud-guard) · [Live Demo](https://pravoobi.github.io/fraud-guard)                         |
+| **Neu CRM**              | React-based CRM prototype built with @practics/ui                                         | [GitHub](https://github.com/pravoobi/neu-crm) · [Live Demo](https://pravoobi.github.io/neu-crm/)                                |
+
+---
+
+## Key Achievements
+
+- **Innovation Award** (Cognizant) — Automated test data generation, delivering £3,000 in client cost savings
+- **Top 8 Finalist**, Citi Bank Hackathon — Built a digital banking prototype competing against 50+ teams
+- **Cognizant Vibe Coding Hackathon** — Designed and shipped Fraud Guard, a fraud-awareness learning app
+
+---
+
+## Languages & Tools
+
 <p align="left">
-<a href="https://twitter.com/pravoobi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pravoobi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/praveenkumar-velisetty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="praveeenkumar-velisetty" height="30" width="40" /></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
+  &nbsp;
+  <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></a>
+  &nbsp;
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
+  &nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+  &nbsp;
+  <a href="https://redux.js.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a>
+  &nbsp;
+  <a href="https://graphql.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/></a>
+  &nbsp;
+  <a href="https://jestjs.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/></a>
+  &nbsp;
+  <a href="https://www.cypress.io" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/></a>
+  &nbsp;
+  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
+  &nbsp;
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/></a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pravoobi&show_icons=true&locale=en&layout=compact" alt="pravoobi" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pravoobi&show_icons=true&locale=en" alt="pravoobi" /></p>
