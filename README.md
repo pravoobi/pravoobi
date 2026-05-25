@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Venkata Praveen Kumar</h1>
-<h3 align="center">Senior Frontend Engineer · React · Next.js · TypeScript · 8+ years building fintech products at Goldman Sachs scale. Open to opportunities./h3>
+<h3 align="center">Senior Frontend Engineer · React · Next.js · TypeScript · 8+ years building fintech products at Goldman Sachs scale. Open to opportunities.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pravoobi&label=Profile%20views&color=0e75b6&style=flat" alt="pravoobi" /> </p>
 
 - 📫 How to reach me **pravubi@gmail.com**
 - Visit my website at [Portfolio](https://pravoobi.github.io)
 
-- <h3 align="left">Featured Projects</h3>
+ <h3 align="left">Featured Projects</h3>
 
   **@practics/ui**: A React component library built with Tailwind CSS and Radix UI primitives.
   Github: https://github.com/pravoobi/practics-ui
