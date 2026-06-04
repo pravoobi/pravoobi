@@ -5,7 +5,7 @@
 
 <a href="mailto:pravubi@gmail.com"><img src="https://img.shields.io/badge/Email-pravubi%40gmail.com-blue?style=flat&logo=gmail" /></a>
 &nbsp;
-<a href="https://linkedin.com/in/praveenkumar-velisetty"><img src="https://img.shields.io/badge/LinkedIn-praveenkumar--velisetty-0077B5?style=flat&logo=linkedin" /></a>
+<a href="https://linkedin.com/in/venkata-praveeenkumar-velisetty"><img src="https://img.shields.io/badge/LinkedIn-venkata-praveeenkumar-velisetty-0077B5?style=flat&logo=linkedin" /></a>
 &nbsp;
 <a href="https://pravoobi.github.io"><img src="https://img.shields.io/badge/Portfolio-pravoobi.github.io-success?style=flat&logo=github" /></a>
 &nbsp;
@@ -33,12 +33,12 @@ Senior Frontend Engineer specializing in **React**, **Next.js**, and **TypeScrip
 
 ## Featured Projects
 
-| Project                  | Description                                                                               | Links                                                                                                                           |
-| ------------------------ | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| Project                  | Description                                                                               | Links                                                                                                                                                        |
+| ------------------------ | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **@practics/ui**         | React component library built with Tailwind CSS & Radix UI primitives                     | [GitHub](https://github.com/pravoobi/practics-ui) · [Storybook](https://pravoobi.github.io/practics-ui/) · [npm](https://www.npmjs.com/package/@practics/ui) |
-| **Vincent Digital Bank** | Next.js digital banking prototype with fast, secure onboarding & document-ID verification | [GitHub](https://github.com/pravoobi/vincent-digital-bank) · [Live Demo](http://vincent-digital-bank.vercel.app/)               |
-| **Fraud Guard**          | Interactive fraud-awareness learning app — Cognizant Vibe Coding Hackathon                | [GitHub](https://github.com/pravoobi/fraud-guard) · [Live Demo](https://pravoobi.github.io/fraud-guard)                         |
-| **Neu CRM**              | React-based CRM prototype built with @practics/ui                                         | [GitHub](https://github.com/pravoobi/neu-crm) · [Live Demo](https://pravoobi.github.io/neu-crm/)                                |
+| **Vincent Digital Bank** | Next.js digital banking prototype with fast, secure onboarding & document-ID verification | [GitHub](https://github.com/pravoobi/vincent-digital-bank) · [Live Demo](http://vincent-digital-bank.vercel.app/)                                            |
+| **Fraud Guard**          | Interactive fraud-awareness learning app — Cognizant Vibe Coding Hackathon                | [GitHub](https://github.com/pravoobi/fraud-guard) · [Live Demo](https://pravoobi.github.io/fraud-guard)                                                      |
+| **Neu CRM**              | React-based CRM prototype built with @practics/ui                                         | [GitHub](https://github.com/pravoobi/neu-crm) · [Live Demo](https://pravoobi.github.io/neu-crm/)                                                             |
 
 ---
 
