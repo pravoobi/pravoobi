@@ -1,11 +1,11 @@
 <div align="center">
   <h1>Hi 👋, I'm Venkata Praveen Kumar</h1>
   <h3>Senior Frontend Engineer &nbsp;·&nbsp; React &nbsp;·&nbsp; Next.js &nbsp;·&nbsp; TypeScript</h3>
-  <p>8+ years building consumer-scale fintech at <strong>Goldman Sachs</strong> &amp; enterprise IoT platforms at <strong>Siemens Gamesa</strong></p>
+  <p>9+ years building consumer-scale, compliance-driven fintech at <strong>Goldman Sachs</strong> &amp; enterprise IoT platforms at <strong>Siemens Gamesa</strong></p>
 
 <a href="mailto:pravubi@gmail.com"><img src="https://img.shields.io/badge/Email-pravubi%40gmail.com-blue?style=flat&logo=gmail" /></a>
 &nbsp;
-<a href="https://linkedin.com/in/venkata-praveeenkumar-velisetty"><img src="https://img.shields.io/badge/LinkedIn-venkata-praveeenkumar-velisetty-0077B5?style=flat&logo=linkedin" /></a>
+<a href="https://www.linkedin.com/in/venkata-praveenkumar-velisetty/"><img src="https://img.shields.io/badge/LinkedIn-venkata--praveenkumar--velisetty-0077B5?style=flat&logo=linkedin" /></a>
 &nbsp;
 <a href="https://pravoobi.github.io"><img src="https://img.shields.io/badge/Portfolio-pravoobi.github.io-success?style=flat&logo=github" /></a>
 &nbsp;
@@ -19,15 +19,16 @@
 
 ## About Me
 
-Senior Frontend Engineer specializing in **React**, **Next.js**, and **TypeScript** — I combine hands-on engineering with technical leadership to ship measurable outcomes:
+Senior Frontend Engineer specializing in **React**, **Next.js**, and **TypeScript** — I build complex regulated user journeys (onboarding, consents, tax compliance, referrals, promotional campaigns) and act as the frontend point of reference for a cross-functional team:
 
-- **+5%** conversion lift on Marcus.com customer onboarding
-- **100%** regulatory compliance across KYC & identity-verification touchpoints
-- Lighthouse performance score improved from **80 → 95**; load time cut from **8s → 3.5s**
-- Test coverage raised from **61% → 80%+** using Jest & Cypress
-- Architected a **30+ component TypeScript library** adopted across 4 product squads
-- Mentored **5 frontend developers** and established React/TypeScript coding standards
-- Reduced boilerplate effort by **~30%** via AI-assisted workflows (GitHub Copilot, Cursor.ai)
+- **+2%** conversion lift on Marcus.com customer onboarding through iterative UX and flow improvements
+- Delivered **compliance-critical features** — KYC onboarding, customer consents & tax-compliance journeys — meeting the audit and regulatory requirements of a US retail bank
+- Test coverage raised from **61% → 80%+** using Jest & Cypress, reducing regressions across releases
+- Built **@practics/ui**, a published reusable React component library (TypeScript, Tailwind CSS)
+- Applied **WCAG 2.1 AA** accessibility standards and web performance optimization (Lighthouse)
+- Mentored **2 frontend developers** and established React/TypeScript coding patterns through code reviews
+- Introduced **AI-assisted workflows** (GitHub Copilot, Cursor) to reduce boilerplate
+- Prior **6-year banking QA background** — an edge-case-first, audit-aware approach to regulated fintech
 
 ---
 
@@ -39,6 +40,7 @@ Senior Frontend Engineer specializing in **React**, **Next.js**, and **TypeScrip
 | **Vincent Digital Bank** | Next.js digital banking prototype with fast, secure onboarding & document-ID verification | [GitHub](https://github.com/pravoobi/vincent-digital-bank) · [Live Demo](http://vincent-digital-bank.vercel.app/)                                            |
 | **Fraud Guard**          | Interactive fraud-awareness learning app — Cognizant Vibe Coding Hackathon                | [GitHub](https://github.com/pravoobi/fraud-guard) · [Live Demo](https://pravoobi.github.io/fraud-guard)                                                      |
 | **Neu CRM**              | React-based CRM prototype built with @practics/ui                                         | [GitHub](https://github.com/pravoobi/neu-crm) · [Live Demo](https://pravoobi.github.io/neu-crm/)                                                             |
+| **Virtual Try-On**       | Browser-native virtual try-on — on-device ML (segmentation, pose, thin-plate-spline garment warp) via LiteRT.js on WebGPU; no video leaves the browser | [GitHub](https://github.com/pravoobi/try-on) · [Live Demo](https://pravoobi.github.io/try-on/)                                                               |
 
 ---
 
